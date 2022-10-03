@@ -9,9 +9,7 @@ function FetchApi(){
         .then((ans)=>{
            
            // console.log("ANSWER IS :"+ans)
-           if(ans==="yes"){
-               
-           }
+           if(ans==="yes"){}
         });
     }
 
